@@ -1,4 +1,4 @@
-![Build Status](https://gitlab.com/pages/jekyll/badges/master/pipeline.svg)
+[![Build Status](https://gitlab.com/pages/jekyll/badges/master/pipeline.svg)](https://gitlab.com/pages/jekyll/-/pipelines?ref=master)
 ![Jekyll Version](https://img.shields.io/gem/v/jekyll.svg)
 
 ---
@@ -54,7 +54,7 @@ This project's static Pages are built by [GitLab CI][ci], following the steps
 defined in [`.gitlab-ci.yml`](.gitlab-ci.yml):
 
 ```
-image: ruby:2.3
+image: ruby:latest
 
 variables:
   JEKYLL_ENV: production
@@ -102,7 +102,7 @@ unless you want to contribute back to the upstream project.
 ## Other examples
 
 * [jekyll-branched](https://gitlab.com/pages/jekyll-branched) demonstrates how you can keep your GitLab Pages site in one branch and your project's source code in another.
-* The [jekyll-themes](https://gitlab.com/groups/jekyll-themes) group contains a collection of example projects you can fork (like this one) having different visual styles.
+* The [jekyll-themes](https://gitlab.com/jekyll-themes) group contains a collection of example projects you can fork (like this one) having different visual styles.
 
 ## Troubleshooting
 
