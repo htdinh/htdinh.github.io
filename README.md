@@ -1,4 +1,4 @@
-![Build Status](https://gitlab.com/pages/jekyll/badges/master/build.svg)
+![Build Status](https://gitlab.com/pages/jekyll/badges/master/pipeline.svg)
 ![Jekyll Version](https://img.shields.io/gem/v/jekyll.svg)
 
 ---
