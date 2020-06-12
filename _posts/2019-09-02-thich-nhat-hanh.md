@@ -1,0 +1,17 @@
+---
+layout: post
+title: Thich Nhat Hanhs kurze Biografie
+mathjax: true
+category:
+tags: [Deutsch Lernen]
+published: true
+---
+Thich Nhat Hanh ist eine vietnamesische Persönlichkeit und eigentlich ein buddhistischer Mönch, ein Friedensaktivist und auch ein Schriftsteller, der mehr als 100 Bücher veröffentlicht hat. Ich habe heute 3 davon mitgebracht, um sie euch zu zeigen. In meinem Vortrag beschreibe ich zuerst kurz seine Biografie, danach die besonderen Schwerpunkte seiner buddhistischen Lehre und zuletzt meine eigenen Erfahrungen damit.
+
+Er wurde 1926 in Vietnam in geboren und er engagierte sich für Friedensaktivitäten in Vietnam während des Vietnamkriegs. Anfang 1967 nominierte Martin Luther King Thích Nhất Hạnh für den Friedensnobelpreis. Wegen seiner Friedensaktivitäten wurde seine Einreise nach Vietnam verweigert und er lebte im Exil für fast 40 Jahre bis 2005. Aufgrund seines schlechten Gesundheitszustandes bleibt er jetzt in Vietnam in seinem ursprünglichen Tempel. Vorher hat er in seinem Exil viele Meditationszentren und buddhistische Klöster in verschiedenen Ländern gegründet und eröffnet. Nennenswert ist das Plum Village in Südfrankreich. In dieser Lokation führen er und andere Mönche und Nonnen Vorträge und Tagungen für viele Besucher nicht nur aus Vietnam, sondern auch weltweit und mit verschiedenen religiösen Hintergründen.
+
+In Bezug auf seine Lehre möchte ich nur einige wichtige Schwerpunkte hervorheben, weil seine Lehre sehr umfangreich ist. Vor allem gibt es ein breites Spektrum von Schulen der buddhistischen Praxis je nach verschiedenen Ursprüngen z. B. aus Tibet, aus China, aus Japan usw. So wie in der Kochkunst gibt es keine beste, aber jede Kochkunst ist einzigartig wertvoll. Der Ansatz der Lehre Thich Nhat Hanhs fokussiert sich darauf, Achtsamkeit im Alltag umzusetzen: z. B. achtsames Essen, achtsames Gehen und achtsames Zuhören. Damit können wir unsere Gewohnheiten näher beobachten, um mehr Frieden in unser Leben zu bringen, z. B. wie man besser mit negativen Gefühlen wie Wut und Ärger umgehen kann und dadurch die Beziehung miteinander verbessern und vertiefen kann (wie das Buch „Einfach lieben“). Die Besonderheit liegt hauptsächlich an der Anwendbarkeit im Alltag.
+
+Zuletzt möchte ich meine eigene Erfahrung mit seinen Büchern und seiner Lehre im Allgemeinen erläutern. Ich bin nur teilweise davon überzeugt oder habe nur teilweise begriffen, was im Buch erklärt wurde, weil einige Erklärungen oder Erläuterungen auf religiöse oder spirituelle Grundlage basieren. Trotzdem habe ich viele hilfreiche Hinweise gefunden. Mit großem Interesse, ausgehend von Ihrem Buch, habe ich an einer Meditationstagung in einem solchen Kloster, ein paar Stunden von Köln entfernt, teilgenommen, mit ungefähr 40 anderen jungen Teilnehmern, ursprünglich aus Vietnam. Früh am Morgen haben wir einen Spaziergang durch den Wald gemacht, den Sonnenaufgang angeschaut und gemeinsam Frühstück und Mittagessen in Achtsamkeit zu uns genommen. Achtsames Essen bedeutet, wir reden nicht miteinander während der Mahlzeit. Damit achten wir nur auf das Essen. Essen, ohne zu reden, kann am Anfang komisch erscheinen, aber im Laufe der Zeit schätzen wir das Essen viel mehr.
+
+Zum Schluss habe ich seine Biografie kurzgefasst und die Höhepunkte seiner Lehre nach meiner Schätzung und meiner Erfahrung erzählt. Ich finde seinen Ansatz zur Achtsamkeit durch alltägliche Übungen machbar und sehr hilfreich.

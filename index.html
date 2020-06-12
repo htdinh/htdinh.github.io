@@ -1,23 +1,38 @@
 ---
 layout: default
+exclude_from_search: true
 ---
+<!-- This loops through the paginated posts -->
 
-<div class="home">
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
 
-  <h1 class="page-heading">Posts</h1>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">
+          Mehr
+      </a>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+    </article>
+  {% endfor %}
+</div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+<!-- Pagination links -->
+<hr>
+<div class="pagination"  style = "text-align: center;">
+  {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous" style="float:left;">&#8678; Previous</a>
+  {% else %}
+      <span class="previous" style="float:left;">&#8678; Previous</span>
+  {% endif %}
+      <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next" style="float:right;">Next &#8680;</a>
+  {% else %}
+      <span class="next " style="float:right;">Next &#8680;</span>
+  {% endif %}
 </div>

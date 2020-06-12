@@ -1,20 +1,75 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    {% if page.url == "/404.html" %}
+        <meta http-equiv="refresh" content="5; url=/">
+    {% endif %}
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}  {{ site.description }}</title>
+    {% seo %}
+    {% include meta.html %}
 
-  {% include head.html %}
+    {% if page.tipue_search_active or layout.tipue_search_active %}
+    <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/normalize.css" | relative_url }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="{{ "/assets/tipuesearch/tipuesearch_content.js" | relative_url }}"></script>
+    <link rel="stylesheet" href="{{ "/assets/tipuesearch/css/tipuesearch.css" | relative_url }}">
+    <script src="{{ "/assets/tipuesearch/tipuesearch_set.js" | relative_url }}"></script>
+    <script src="{{ "/assets/tipuesearch/tipuesearch.min.js" | relative_url }}"></script>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" media="print" href="{{ "/_sass/print.css"| relative_url }}"></script>
+    {% endif %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  <link rel="shortcut icon" href="/images/favicon.ico">
+  </head>
 
   <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
-    {% include header.html %}
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+</form>
+          </div>
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+          <nav>
+            <a href="{{ site.baseurl }}/kinh-nghiem">Kinh nghiệm học</a>
+              <a href="{{ site.baseurl }}/tap-viet">Tập viết tiếng Đức</a>
+            <a href="{{ site.baseurl }}/gioi-thieu">Giới thiệu</a>
+
+          </nav>
+        </header>
       </div>
     </div>
 
-    {% include footer.html %}
 
+    <div id="main" role="main" class="container">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-footer">
+      <div class="container">
+        <footer class="footer">
+          {% include svg-icons.html %}<br>
+          <font size="2">
+            <a href="{{ site.baseurl }}/disclaimer">Disclaimer & Copyright</a> © 2014-{{ 'now' | date: "%Y" }} <br>
+          Tu's Studio, Germany</font>
+        </footer>
+
+      </div>
+
+    </div>
+    {% include analytics.html %}
+    {% include scripts.html %}
   </body>
-
 </html>

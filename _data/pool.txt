@@ -1,0 +1,195 @@
+<p>Claim: Researchers should not limit their investigations to only those areas in which they expect to discover something that has an immediate, practical application.</p>
+
+<p>Reason: It is impossible to predict the outcome of a line of research with any certainty.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>Some people believe that our ever-increasing use of technology significantly reduces our opportunities for human interaction. Other people believe that technology provides us with new and better ways to communicate and connect with one another.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>Claim: Knowing about the past cannot help people to make important decisions today.</p>
+
+<p>Reason: The world today is significantly more complex than it was even in the relatively recent past.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>Claim: Knowing about the past cannot help people to make important decisions today.</p>
+
+<p>Reason: We are not able to make connections between current events and past events until we have some distance from both.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>Educational institutions should actively encourage their students to choose fields of study that will prepare them for lucrative careers.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>Educational institutions should actively encourage their students to choose fields of study in which jobs are plentiful.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>Educational institutions have a responsibility to dissuade students from pursuing fields of study in which they are unlikely to succeed.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>Some people believe that competition for high grades motivates students to excel in the classroom. Others believe that such competition seriously limits the quality of real learning.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>Claim: Major policy decisions should always be left to politicians and other government experts.</p>
+
+<p>Reason: Politicians and other government experts are more informed and thus have better judgment and perspective than do members of the general public.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>Some people believe that universities should require every student to take a variety of courses outside the student's field of study. Others believe that universities should not force students to take any courses other than those that will help prepare them for jobs in their chosen fields.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss which view more closely aligns with your own position and explain your reasoning for the position you take. In developing and supporting your position, you should address both of the views presented.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>It is more harmful to compromise one's own beliefs than to adhere to them.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>Claim: Colleges and universities should specify all required courses and eliminate elective courses in order to provide clear guidance for students.</p>
+
+<p>Reason: College students—like people in general—prefer to follow directions rather than make their own decisions.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss the extent to which you agree or disagree with the claim and the reason on which that claim is based.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>No field of study can advance significantly unless it incorporates knowledge and experience from outside that field.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>True success can be measured primarily in terms of the goals one sets for oneself.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>The general welfare of a nation's people is a better indication of that nation's greatness than are the achievements of its rulers, artists, or scientists.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>The best test of an argument is the argument's ability to convince someone with an opposing viewpoint.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>The effectiveness of a country's leaders is best measured by examining the well-being of that country's citizens.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss the extent to which you agree or disagree with the statement and explain your reasoning for the position you take. In developing and supporting your position, you should consider ways in which the statement might or might not hold true and explain how these considerations shape your position.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>Nations should pass laws to preserve any remaining wilderness areas in their natural state.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss the extent to which you agree or disagree with the claim. In developing and supporting your position, be sure to address the most compelling reasons and/or examples that could be used to challenge your position.</p>
+</div>
+
+<div class="divider-50">
+<hr>
+</div>
+
+<p>In any field—business, politics, education, government—those in power should be required to step down after five years.</p>
+
+<div class="indented">
+<p class="">Write a response in which you discuss your views on the policy and explain your reasoning for the position you take. In developing and supporting your position, you should consider the possible consequences of implementing the policy and explain how these consequences shape your position.</p>
+</div>

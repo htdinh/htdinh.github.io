@@ -1,0 +1,151 @@
+---
+layout: presentation
+title: Sampling
+mathjax: true
+permalink: /sampling/
+---
+
+class: center, middle
+# Sampling <br> in Audio Signal Processing <br> (and in the Mind)
+
+#### Hung Tu
+#### 11-Mar-2018
+#### Pratice of Technical Exposition
+
+---
+
+# Agenda
+
+1. Physics of Sound
+
+--
+count: false
+2. Sampling in Audio Signal Processing
+
+--
+count: false
+3. Analogy to the Mind
+
+???
+Some note here.
+---
+
+# 1. Physics of Sound
+
+* _Propagation_ of a _wave of pressure_ through a transmission medium (e.g. air)
+    - Vibration has frequency
+    - Human speech 100 Hz–4 kHz range
+* Loss: The wave weaken as they propagate: you have to shout to call someone afar.
+
+* Need for reconstruction: For longer distance transmission, we need to digitize the sound and transmit as electrical signal (Telephone - 1870s).
+
+.center[<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/The_Elements_of_Sound_jpg.jpg" alt="Air wave" style="width: 350px;"/>]
+
+---
+
+# 2. Sampling of Audio Signal
+
+* **Necessity**: Physical sound is continuous but we can only store digital signal in hardware.
+
+* Sampling is the reduction of a continuous-time signal <span style="color:green">S(t)</span> to a discrete-time signal <span style="color:blue">Si</span>.
+
+.center[<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Signal_Sampling.png" alt="Sampling audio" style="width: 300px;"/>]
+
+--
+count: false
+* Reconstruction is through interpolation. The more samples, the easier to construct the signal.
+    - **Exploitation**: Don't need to record **all** the points in the middle.
+
+* Accept that the reconstruction is an **approximation**.
+---
+
+# Under- & Oversampling
+
+* Imagine the original signal is one sinusoidal. We sample at <span style="color:red">red</span> dots.
+
+* Undersampling ~ _"not sufficient"_ (A, C < 2f)
+
+* Oversampling ~ _"more than sufficient"_ (B >= 2f)
+
+* All reconstruction are just _approximations_
+    - but B still remains the main frequency of the signal.
+
+.center[<img src="http://www.ni.com/cms/images/devzone/tut/Fig_6_Nyquist_Sampling.JPG" alt="undersampling" style="width: 350px"/>]
+
+---
+
+# Under- & Oversampling
+
+* Undersampling: Signal varies faster than the sampling process can capture.
+
+* Oversampling: Sampling process capture more often than the signal varies.
+
+---
+
+# Analogy to the Mind
+
+1. Our memory = hard disk storing digitized copies of the continuous sequence of events.
+
+--
+count:false
+2. Our observation or awareness = sampling the environment and sampling the moment.
+
+--
+count:false
+3. Remember during time of sharp changes e.g. most people remember exactly what they did during the September 11.
+--
+count:false
+4. Most people don't remember what they eat for lunch 3 days ago.
+
+--
+count:false
+5. Perception of time duration is more proportionate to the number of events.
+
+_Disclaimer: My personal interpretation only, with no scientific neurological survey of how the brain works._
+
+???
+1. Our memory of the past can be considered as a digital copy of the continuous sequence of events.
+
+2. Our observation/awareness is like probing the environment and sampling the moment to add into that collection of events.
+
+3. We tend to remember the events that are _sudden, suprising_ as if they are high frequency. Probably we automatically increase the sampling rate (aware more) at the time of changes.
+
+4. Most people don't remember what they eat for lunch 3 days ago because the lunches are not significantly different from day to day. So people can reduce the sampling rate about those.
+
+5. Perception of time duration is more proportionate to the number of events taken in the time line rather than the absolute length of the timeline.
+---
+
+# Reframe the sampling principles to the Mind
+
+1. Sample more in the time of frequent changes
+    - A lot of changes in the 20s.
+--
+count:false
+2. Be careful with the hypothesis formed by undersampling
+    - All models are approximations.
+    - But some models are completely wrong if undersampling.
+    - Especially when making a decision: verify all related hypothesis.
+--
+count:false
+3. Real time processing vs Processing from Database
+    - Live in **present** vs in the **past**
+    - We need to let the brain exercise _**real time processing**_ too.
+
+---
+
+# Summary
+
+1. Physics of Sound
+    - Propagate as wave in a transmission medium
+    - Need to be converted to digital signal
+--
+count: false
+2. Sampling in Audio Signal Processing
+    - Sampling does the Analog-to-Digital conversion
+    - If undersampling, reconstruct poor model
+--
+count: false
+3. Analogy to the Mind
+    - Sample more often in times of changes
+    - Double check the assumption with undersampling before making decisions
+    - Balance the exercise for _real time processor_

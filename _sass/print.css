@@ -1,0 +1,10 @@
+@media print{
+  body{
+    background-color:white;
+    background-image:none;
+    color:black;
+    }
+
+  .wrapper-footer{
+    display:none
+}
