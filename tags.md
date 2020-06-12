@@ -45,7 +45,7 @@ Archives of {{ site.posts | size }} posts
   {% for post in site.posts %}
   {% if post.tags contains tag %}
   <li>
-      <a href="{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
        </a>
   </li>

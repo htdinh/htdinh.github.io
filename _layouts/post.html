@@ -6,7 +6,7 @@ layout: default
   <h1>{{ page.title }}</h1>
     {% if page.tags != empty %}
             <b>  {% for tag in page.tags %} </b>
-            <a class="post-tag" href="/archive/#{{ tag | slugify }}"> <img src="../images/tags.svg" alt="Tags"
+            <a class="post-tag" href="{{ site.baseurl }}/archive/#{{ tag | slugify }}"> <img src="../images/tags.svg" alt="Tags"
                                                                            height="12">
                 {{ tag }}
             </a>
