@@ -25,13 +25,13 @@ exclude_from_search: true
 <hr>
 <div class="pagination"  style = "text-align: center;">
   {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous" style="float:left;">&#8678; Previous</a>
+      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous" style="float:left;">&#8678; Previous</a>
   {% else %}
       <span class="previous" style="float:left;">&#8678; Previous</span>
   {% endif %}
       <span class="page_number ">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path }}" class="next" style="float:right;">Next &#8680;</a>
+      <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next" style="float:right;">Next &#8680;</a>
   {% else %}
       <span class="next " style="float:right;">Next &#8680;</span>
   {% endif %}
