@@ -16,7 +16,7 @@ exclude_from_search: true
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Mehr</a>
     </article>
    {% endif %}
   {% endfor %}
