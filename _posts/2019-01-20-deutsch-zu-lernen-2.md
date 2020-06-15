@@ -3,7 +3,7 @@ layout: post
 title: Deutschlernen und anderes Erlernen    
 mathjax: true
 category:
-tags: [Deutsch Lernen]
+tags: [Deutsch Lernen, Kinh Nghiệm]
 published: true
 ---
 

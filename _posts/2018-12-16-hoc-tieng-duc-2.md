@@ -3,7 +3,7 @@ layout: post
 title: Học Tiếng Đức - Phần 2 
 mathjax: true
 category:
-tags: [Tiếng Việt]
+tags: [Tiếng Việt, Kinh Nghiệm]
 published: false 
 --- 
 Sau [Bài 1](/tieng-duc-khong-kho), chia sẻ về động cơ học, và những thuận lợi của việc học tiếng ở Đức, thì mình sẽ tiếp tục chia sẻ ở Phần 2 về một số kinh nghiệm học tiếng, cụ thể trong bài này là về việc học từ vựng và ngữ pháp, và hai kỹ năng nghe và đọc. Đây là những kỹ năng mình tạm gọi là "xử lý bị động" (hiểu - nghe hiểu, đọc hiểu), vì bạn có thể tự học mà không cần người nghe hay người đọc. Kỹ năng nói và viết, mình tạm gọi là "xử lý chủ động", vì bạn tham gia vào trong quá trình dẫn dắt nội dung - bạn lựa chọn dùng từ gì câu gì để mô tả điều bạn muốn mô tả. Những cái chủ động thường cần có partner nghe hoặc là người kiểm tra bài viết để sửa giúp bạn những lỗi sai.
