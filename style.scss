@@ -181,6 +181,14 @@ img {
   }
 }
 
+.search-box {
+  float: right;
+    @include mobile {
+        display: block;
+        clear: right;
+  }
+}
+
 .site-info {
   float: left;
 
@@ -232,6 +240,9 @@ nav {
     letter-spacing: 1px;
 
     @include mobile {
+      display: block;
+      float: none;
+      clear: right;
       margin: 0 10px;
       color: $blue;
     }
