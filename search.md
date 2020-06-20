@@ -8,7 +8,7 @@ exclude_from_search: true
 ---
 <form action="{{page.url | relative_url}}">
   <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
-  <div class="tipue_search_right"><input type="text" name="q" placeholder="type search key here" autofocus="autofocus" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
+  <div class="tipue_search_right"><input type="text" name="q" placeholder="nhập từ khoá" autofocus="autofocus" id="tipue_search_input" pattern=".{3,}" title="Từ khoá phải ít nhất từ 3 chữ cái trở lên"></div>
   <div style="clear: both;"></div>
 </form>
 
