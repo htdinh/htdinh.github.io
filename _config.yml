@@ -9,7 +9,7 @@ name: Tu's Studio
 description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ../images/lamp.png
+avatar: /deutsch/images/lamp.png
 
 #
 # Flags below are optional
@@ -87,7 +87,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: ../images/lamp.png
+      image: /deutsch/images/lamp.png
 
 # Exclude these files from your production _site
 exclude:

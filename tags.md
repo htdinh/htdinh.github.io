@@ -32,7 +32,7 @@ Here we generate all the tags.
 {% endif %}
 {% endfor %}
 
-Archives of {{ site.posts | size }} posts
+Mục lục của {{ site.posts | size }} bài viết
 <div class="posts">
 <p>|
 {% for tag in tags %}
