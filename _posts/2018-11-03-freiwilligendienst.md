@@ -14,7 +14,4 @@ Weiterhin ist für mich wichtig die Erfahrung mit zwischenmenschlicher Kommunika
 
 Nicht zuletzt freue ich mich, dass ich mein Deutsch in der Praxis nutzen kann, da ich mit anderen Teilnehmern den ganzen Nachmittag Deutsch gesprochen habe. Obwohl ich in Deutschland wohne und arbeite, erfordert mein Alltag kaum Deutsch. Dies liegt daran, dass Englisch in Berlin und an meinem Arbeitsplatz verfügbar und beliebt ist. Das Gefühl der Nützlichkeit durch den Freiwilligendienst motiviert mich, die Sprache weiter zu erlernen. Manchmal verliere ich mich beim Gespräch, weil zumeist die anderen Personen umgangssprachlich oder einfach zu schnell sprechen. Aber das entmutigt mich gar nicht. Ansonsten fühle ich tatsächlich, dass jedes einzelne Wort, das ich verstehe oder sage, ein Gewinn für mich ist.
  
-Abschließend freue ich mich, dass ich an der Veranstaltung teilgenommen habe. Meine Zufriedenheit kommt da nicht nur von dem Ergebnis meiner Arbeit und dem Geist der Teamarbeit, sondern auch den Chancen mit anderen Personen in Kontakt zu treten, und meiner Deutschkenntnisse zu sinnvoll nutzen.  
-
-_Disclaimer: I post here some of my essays that I wrote out of the homework in my German course. They may contain grammatical error as well as expression error. In the scope of homework excercise, the essays do not necessarily represent my point of view and analysis._
-
+Abschließend freue ich mich, dass ich an der Veranstaltung teilgenommen habe. Meine Zufriedenheit kommt da nicht nur von dem Ergebnis meiner Arbeit und dem Geist der Teamarbeit, sondern auch den Chancen mit anderen Personen in Kontakt zu treten, und meiner Deutschkenntnisse zu sinnvoll nutzen.

@@ -19,5 +19,3 @@ Manche Leute finden Dörfer langweilig. Ich stimme zu, dass es in den Städten z
 Nicht zu vergessen sind die Arbeitsmöglichkeiten. Obwohl es in der Stadt mehr Jobs gibt, ist auch der Wettbewerb hoch. Ein großer Vorteil Deutschlands ist, dass sich Unternehmen nicht nur auf die großen Städte konzentrieren. Man kann deshalb in einem Dorf leben und ein paar große Arbeitgeber in den nächsten Dörfern finden. Das Gehalt kann zwar weniger attraktiv sein, aber die Lebenshaltungskosten im Dorf sind auch bezahlbarer.
 
 Abschließend finde ich persönlich mehr Vorteile als Nachteile im Leben im Dorf. 
-
-_Disclaimer: I post here some of my essays that I wrote out of the homework in my German course. They may contain grammatical error as well as expression error. In the scope of homework excercise, the essays do not necessarily represent my point of view and analysis._

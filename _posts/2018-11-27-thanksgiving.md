@@ -16,6 +16,4 @@ Als nächstes werde ich über meinen Besuch bei der Gastfamilie erzählen. Ein p
 
 Weitere Besonderheit des Monats November ist das Laub. Das war mein erstes Mal Laub zu sehen. Der ganze Wald änderte seine Farbe in einem Augenblick. Viele Bäume verlieren ihre Blätter in ein oder zwei Wochen. Nach den Kursen an der Universität ging ich spazieren im Wald und ich fotografierte gern die Landschaft mit farbigen Bäumen. Normalerweise ging ich spazieren allein aber ich fühlte mich nie einsam. Vielleicht war ich beschäftig und beeindruckt mit der neuen Umgebung, die immer etwas für mich zu entdecken hatte. 
 
-Abschließend, möchte ich sagen, dass bin ich immer froh, dass ich ein Semester da verbrachte. Ich lernte viele neue Dinge, nicht nur aus Büchern, sondern auch von den einmaligen Erlebnissen. Die schönen Erinnerungen am Thanksgiving-Tag bleibt immer in meinem Herzen. 
-
-_Disclaimer: I post here some of my essays that I wrote out of the homework in my German course. They may contain grammatical error as well as expression error. In the scope of homework excercise, the essays do not necessarily represent my point of view and analysis._
+Abschließend, möchte ich sagen, dass bin ich immer froh, dass ich ein Semester da verbrachte. Ich lernte viele neue Dinge, nicht nur aus Büchern, sondern auch von den einmaligen Erlebnissen. Die schönen Erinnerungen am Thanksgiving-Tag bleibt immer in meinem Herzen.
