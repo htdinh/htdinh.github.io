@@ -102,10 +102,13 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}<br>
           <font size="2">
+            <form style="padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=TusStudio', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Đăng ký để nhận thông báo khi có bài mới</p><p> <input type="text" style="width:140px;margin-right: 1em" placeholder="E-Mail" name="email"/><input type="hidden" value="TusStudio" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /> </p></form>
+
+
             <a href="{{ site.baseurl }}/disclaimer">Disclaimer & Copyright</a> © 2014-{{ 'now' | date: "%Y" }} <br>
-          Tu's Studio, Germany</font>
+          Tu's Studio, Germany<br>
+          </font>
         </footer>
 
       </div>
