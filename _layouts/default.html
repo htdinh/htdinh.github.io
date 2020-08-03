@@ -6,12 +6,12 @@
     {% endif %}
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} </title>
     {% if page.site_name %}
-      <meta content="{{ site.title }}" property="og:site_name">
+      <meta content="{{ site.site_name }}" property="og:site_name">
     {% endif %}
     {% if page.title %}
       <meta content="{{ page.title }}" property="og:title">
     {% else %}
-      <meta content="{{ site.title }}" property="og:title">
+      <meta content="{{ site.name }}" property="og:title">
     {% endif %}
     {% if page.title %}
       <meta content="article" property="og:type">

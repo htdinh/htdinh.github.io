@@ -107,7 +107,7 @@ Không phải quá trình xin việc nào cũng suôn sẻ và thuận lợi, ng
 ## Phụ lục
 
 ### Quyền tác giả
-Bản quyền bài viết thuộc về tác giả, Đinh Hưng Tư. Bài viết gốc được đăng tải tại trang blog cá nhân của tôi, [https://dinh-hung-tu.github.io/eu-blue-card/](https://dinh-hung-tu.github.io/eu-blue-card/). Mọi vấn đề liên quan đến việc sao chép, đăng tải, sử dụng bài viết xin vui lòng liên hệ với tôi tại địa chỉ email: dinhhungtu[at]gmail.com.
+Bản quyền bài viết thuộc về tác giả, Đinh Hưng Tư. Bài viết gốc được đăng tải tại trang blog cá nhân của tôi, [https://dhtu.gitlab.io/deutsch/eu-blue-card/](https://dhtu.gitlab.io/deutsch/eu-blue-card/). Mọi vấn đề liên quan đến việc sao chép, đăng tải, sử dụng bài viết xin vui lòng liên hệ với tôi tại địa chỉ email: dinhhungtu[at]gmail.com.
 
 ### Nguồn tham khảo
 

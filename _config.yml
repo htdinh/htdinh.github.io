@@ -4,14 +4,15 @@
 
 # Name of your site (displayed in the header)
 name: Tu's Studio
-
+title: Tu's Studio
+site_name: Tu's Studio
 # Short bio or description (displayed in the header)
 description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /deutsch/images/lamp.png
 logo: /deutsch/images/lamp.png
-site_name: Tiếng Đức Đà Nẵng
+
 #
 # Flags below are optional
 #
