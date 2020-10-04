@@ -22,7 +22,7 @@ Một hạn chế của Chatterbug là giao diện bằng tiếng Anh. Tuy nhiê
 
 ![English Interface with German assignment instruction](/images/interface.png)
 
-Nhược điểm nhỏ nữa của Chatterbug là bạn không thể liên lạc trực tiếp với giáo viên, nhưng bạn có thể xem danh sách tất cả giáo viên dạy tiếng Đức ở trang [Tutor-Introduction](https://chatterbug.com/community/c/tutor-introductions/category-german-tutors/21){:target="_blank"} "Favorite" người nào bạn muốn học cùng, và khi lên lịch học của bạn thì bạn có thể xem lịch của họ để sắp xếp.
+Nhược điểm nhỏ nữa của Chatterbug là bạn không thể liên lạc trực tiếp với giáo viên, nhưng bạn có thể xem danh sách tất cả giáo viên dạy tiếng Đức ở trang [Tutor-Introduction](https://chatterbug.com/community/c/tutor-introductions/category-german-tutors/21){:target="_blank"}, sau đó chọn "Favorite" người nào bạn muốn học cùng, và khi lên lịch học của bạn thì bạn có thể xem lịch của họ để sắp xếp.
 
 Nếu bạn quan tâm nhưng chưa biết chương trình có phù hợp không, bạn có thể học thử 2 tuần miễn phí trong đó đã gồm có 1 buổi học kèm và 1 bài sửa bài viết. Nếu bạn đăng ký account theo link giới thiệu của mình ở phía dưới thì bạn sẽ được **giảm giá 25% cho tháng đầu tiên** khi đăng ký Subscription sau khi dùng thử.
 
