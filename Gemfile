@@ -6,4 +6,5 @@ gem 'jemoji'
 gem 'jekyll-stickyposts'
 gem 'jekyll-toc'
 gem 'jekyll-feed'
+gem "json", "2.0.2"
 gem 'webrick'
