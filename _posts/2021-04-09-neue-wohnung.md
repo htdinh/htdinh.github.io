@@ -1,0 +1,12 @@
+---
+layout: post
+title: Die neue Wohnung
+mathjax: true
+category:
+tags: [Deutsch Lernen]
+published: true
+---
+
+Ich bin neu umgezogen. Die neue Wohnung gefällt mir und meiner Schwester sehr. Wir wohnen seit ihrer Ankunft in Deutschland vor fast zwei Jahren zusammen. Die vorherige Wohnung war nicht schlecht aber sie ist für uns zu klein. Deshalb entschied ich mich sie aufzugeben und eine neue größere zu finden. Aufgrund der langjährigen Wohnungsnot in den deutschen Großstädten wie Berlin ist es unfassbar schwer, eine bezahlbare und gleichzeitig gemütliche Wohnung zu finden. Ich habe Glück, dass ich eine solche gefunden habe. Ich kann glücklicherweise seit Anfang letztes Jahres von Zuhause aus arbeiten und muss nicht mehr täglich pendeln. Deshalb kann ich mir jetzt leisten, irgendwo ein bisschen entfernter vom Stadtzentrum zu wohnen. Ich erinnere mich ab und zu an meinen erfüllten Wunsch für ein Zuhause, und weiß es sehr zu schätzen.
+
+Während des Einpackens vor dem Wohnungsumzug habe ich viele Dinge in der vorherigen Wohnung aussortiert und aufgegeben: einige Bücher, viele Zeitungen und Zeitschriften, einen alten Kleiderschrank, einen altmodischen Fernseher, ein gemütliches, aber sichtbar abgenutztes Sofas, und tausend andere, kleine, namenlose Dinge. Etwas nützlichen Lesestoff habe ich in den öffentlichen Bücherstand in der Nähe gebracht. Die Möbel habe ich per bay-Kleinanzeigen verschenkt. Sie alle werden jetzt nicht mehr gebraucht, oder wurden sogar noch nie gebraucht. Aber sie sind wie die Zeitzeugen meiner letzten drei Jahre in dieser Wohnung, wo auch meine Eltern den ersten Sommer verbracht haben. Ich spüre irgendeine Verbindung zu diesen leblosen Dingen. Deshalb war es am Anfang schwer, alle diese Dinge loszulassen. Aber ich bin dank eines Zitates zu einer neuen Erkenntnis gekommen. Dem Zitat zufolge sind Dinge zu benutzen und Mitmenschen zu lieben. Die Ursache des Chaos in unserem Leben ist, dass die Leute Dinge lieben und ihre Mitmenschen ausnutzen. Ich erinnere mich nochmal daran, wie ich die Verbundenheit zu meinen Eltern, zu meiner Schwester, zu meinem ehemaligen Selbst nicht mehr durch die dingliche Anker, sondern anderweitig vertiefe. Es gibt noch andere zahlreiche Möglichkeiten wie die Aufmerksamkeit, das Zuhören und die Versöhnung, die Wertschätzung, usw.
