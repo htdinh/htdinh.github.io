@@ -8,7 +8,7 @@ published: true
 ---
 Ich habe erst heute bemerkt, dass ich schon seit fast genau einem Jahr bei Chatterbug bin. Unglaublich, wie schnell die Zeit vergeht! Ich habe dabei viel sowohl geschrieben als auch gesprochen und dadurch viel gelernt. Ich bedanke mich sehr für die Unterstützung. 
 
-“Die beste Investition ist die in sich selbst” lautet ein Zitat. Deutschlernen ist zeitaufwändig, aber aus meiner Erfahrung lohnt es sich sehr, besonders, wenn man in Deutschland wohnt. Vor kurzem fiel mir ein schönes englisches Lied auf, das “Time Trades” heißt. Ich übersetze die Hauptbotschaft davon wie folgt. 
+“Die beste Investition ist die in sich selbst” lautet ein Zitat. Deutschlernen ist zeitaufwändig, aber aus meiner Erfahrung lohnt es sich sehr, besonders, wenn man in Deutschland wohnt. Vor kurzem fiel mir ein schönes englisches Lied auf, das “Time Trades” heißt ([YouTube](https://youtu.be/fmTVWupTnTM){:target="_blank"}). Ich übersetze die Hauptbotschaft davon wie folgt. 
 
 “Die Zeit (geht verloren) und wird viel mit sich wegnehmen.
 
