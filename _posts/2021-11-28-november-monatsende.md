@@ -6,7 +6,7 @@ category:
 tags: [Deutsch Lernen]
 published: true
 ---
-Es ist jetzt fast Monatsende des Monats November und nur 1 Monat bis zum Jahreswechsel, und fast zwei Jahre seit dem Anfang der jetzigen weltweiten Pandemie. Ich schreibe diesen Blogbeitrag, um diesen Moment meines Lebens aufzunehmen.
+Es ist jetzt fast das Ende des Monats November und nur 1 Monat bis zum Jahreswechsel, und fast zwei Jahre seit dem Anfang der jetzigen weltweiten Pandemie. Ich schreibe diesen Blogbeitrag, um diesen Moment meines Lebens aufzunehmen.
 
 Die Welt heute ist noch von der Corona-Situation geprägt. Die vierte Welle erobert Deutschland unerwartet nach einer ziemlich stabilen Phase. Das ist für mich ein bisschen unerklärlich, denn Deutschland ist in dieser Pandemie im internationalen Vergleich besser ausgestattet, mit einem Überschuss an Impfdosen. Die Nachrichten heutzutage sind beunruhigend, insbesondere mit der neuen Virusvariante. Neue Einreiseverbote sind zu verhängen, und das setzt viele Reisende plötzlich auf den Strand. Als Einzelperson haben wir wenig Kontrolle über den Verlauf dieser gesamten Situation. Aber wir können unsere Aufmerksamkeit stattdessen auf uns selbst ausrichten, weil wir darauf mehr Einfluss haben. Statt einer Hoffnung auf das Ende der Pandemie erinnere ich mich an die kleinen Freuden im Alltag: den Sonnenschein an einem winterlichen Sonntag, ein gutes hausgemachtes Gericht, einen Blumentopf auf dem Balkon, einen Bonsaibaum auf der Fensterbank usw.
 
