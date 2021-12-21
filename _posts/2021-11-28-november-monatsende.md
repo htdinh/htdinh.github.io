@@ -12,10 +12,10 @@ Die Welt heute ist noch von der Corona-Situation geprägt. Die vierte Welle erob
 
 Die Pandemie ist definitiv ein Ausnahmezustand in unserer jüngsten Geschichte, und sogar eine Existenzkrise für viele Menschen. Wie man damit umgehen sollte? Ich habe keine pauschale Antwort, aber ich finde das folgende Gedicht ein nützliches Hilfsmittel für mich:
 
-Gott gebe mir die Gelassenheit, 
-hinzunehmen, was nicht zu ändern ist. 
-Mut zu ändern, was ich ändern kann, 
-Und Weisheit, zwischen beiden zu unterscheiden. 
+_Gott gebe mir die Gelassenheit,_<br>
+_hinzunehmen, was nicht zu ändern ist._<br>
+_Mut zu ändern, was ich ändern kann,_<br>
+_und Weisheit, zwischen beiden zu unterscheiden._<br>
 
 Ich habe im Laufe der Zeit erlernt, meine Erwartung an die Welt und an die Realität anzupassen. Wie ich früher erwähnt habe, ist die Hoffnung in Krisenzeiten überlebenswichtig, aber unrealistische Erwartungen sind eher frustrierend und sogar kontraproduktiv. Ich nehme besser an, dass die Pandemie noch für eine ungewiss lange Zeit andauert. Sich darüber zu beklagen bringt wenig. Es ist mir wichtiger geworden, mit dieser Situation zurechtzukommen und daraus etwas Nützliches zu machen. Wenn ich sonst zu sehr auf das Ende der Pandemie warten würde, hätte ich auch alle Zeit vor diesem Moment verloren. Ich wünsche mir das nicht. Außerdem erinnere ich mich ein schönes Zitat: „Das geht auch wieder vorüber" (“This too shall pass”). Diese Lebensweisheit gilt nicht nur für schöne Zeiten, sondern auch für schwierige. 
 
