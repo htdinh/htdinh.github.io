@@ -18,4 +18,4 @@ Nach dem ersten Jahr in Berlin mit wenig Erfolg beim Selbstlernen dieser Sprache
 
 Ich bedanke mich für die letzten 5 Jahren in Berlin. Wie die Zeit vergeht! Die letzten fünf Jahre sind wie ein Augenblick. Zum Schluss dieses Blog-Beitrags verlinke ich hier einen meiner Liebingsongs, dessen Lied finde ich sehr sinnvoll. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fmTVWupTnTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yBdka6rahH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
