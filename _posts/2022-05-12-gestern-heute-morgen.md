@@ -1,0 +1,16 @@
+---
+layout: post
+title: Gestern, heute, morgen
+mathjax: true
+category:
+tags: [Deutsch Lernen]
+published: true
+---
+
+Ein Zitat lautet: “Das Leben besteht einfach gesagt aus 3 Tagen: gestern, heute und morgen.” Gestern ist vorbei und befasst sich mit unserer festgelegten und unveränderbaren Vergangenheit, sei es letztes Jahr oder vorgestern. Die Vergangenheit bildet unser Heute und bringt uns hierher, wo wir sind. Sie anzuerkennen und zu akzeptieren und sich ihre Lehre zu Herzen zu nehmen, sind unsere Aufgaben heute. Morgen ist noch nicht angekommen und befasst sich mit allen zukünftigen Szenarien. Welches später die Wirklichkeit wird, kann niemand sicher bestimmen. Man kann nur sein Heute am besten gestalten, um sich auf die mögliche Zukunft vorzubereiten.
+
+Unser Leiden kommt aus verschiedenen Gründen. Eins davon ist die große Erwartung an ein einziges Zukunftsszenario, beispielsweise den Gewinn einer risikoreichen Anlage. Im Verlustfall ist man enttäuscht und dann vergisst man, dass es hier um eine Wahrscheinlichkeit und nicht um eine absolute Sicherheit geht. Danach kommt der zweite Grund unseres Leidens. Es ist die Reue für eine getroffene Entscheidung in der Vergangenheit, wie zum Beispiel die Anlageentscheidung. Man grübelt dann endlos: “Hätte ich es anders gemacht, …” Man hinterfragt die Vergangenheit mit noch nicht bekannten Informationen, die nur in einer späteren Zukunft verfügbar sind.
+
+Man sorgt sich manchmal um viele Szenarien, wie zum Beispiel: Wie es wäre, wenn ich meinen Job verlieren würde. Im Namen der Vorsorge denkt man an möglichst viele schlimme Fälle. Anstatt der ständigen Sorge sollte man aktiv nach einer Lösung suchen oder die Vorsorgemaßnahmen umsetzen. Beispielsweise kann man seine Fähigkeit kontinuierlich weiterentwickeln. Damit man auch im schlimmsten Fall einer unerwarteten Kündigung bessere Chancen auf der nächsten Jobsuche hat. Man sollte weiterhin sparen und auf sein Konsumverhalten achten, um sicherzustellen, dass es einem auch bei einem finanziellen Engpass weiterhin gut geht.
+
+Unsere Wahrnehmung der Zeit ist manchmal unlogisch und dagegen brauchen wir Entscheidungshilfe. Ich habe einen guten Ratschlag dafür bekommen: Wir sollten heute etwas tun, damit unser zukünftiges Selbst sich dafür bedankt. Mache ich heute die Hausaufgaben, verstehe ich dann morgen den Unterricht besser. Gehe ich manchmal joggen statt stundenlang am Bildschirm zu sitzen, wird mein Körper später sich sehr dafür bedanken. Die Kausalität zwischen einer Handlung und einer Folge steht leider nicht immer so deutlich dar, beispielsweise die Anlagestrategie und ihr Gewinn. Aber bei vielen anderen Situationen ist diese Entscheidungshilfe praktisch.
