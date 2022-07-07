@@ -8,7 +8,7 @@ published: true
 ---
 There are some more favorite videos that I would like to bookmark here and recommend to everyone. 
 
-1. How to calm the voice inside your head | Eckhart Tolle teachings
+1. How to calm the voice inside your head, Eckhart Tolle teachings
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBXpFbOPUdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
