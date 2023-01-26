@@ -6,9 +6,22 @@ category:
 tags: [Deutsch Lernen]
 published: true
 ---
-Heute habe ich ein schönes Audiobuch von einem Arzt in Vietnam mit dem vietnamesischen Titel “Vô Thường” gehört. Der Titel kann auf Deutsch als “Vergänglichkeit“ übersetzt werden. Das Buch besteht aus Aufsätzen, womit er über seine emotionalen Begegnungen mit schwerkranken Patienten, ihren Sorgen, ihren Wünschen sowie ihrer Reue berichtete. Die Geschichten im Buch sind traurig, aber auch hoffnungsvoll. Manche Patienten haben erst in ihren letzten Lebensphasen in unvermeidlicher Konfrontation mit dem Tod neue Kenntnisse und Einstellungen erworben. Man sieht das Leben ganz anders als zuvor. Die wesentlichen Aspekte eines Lebens, wie die Familie, das Loslassen, die Eigenverantwortung tauchen auf, die im normalen Alltag übersehen werden.
+Heute habe ich ein sehr schönes Audiobuch von einem Arzt in Vietnam mit dem vietnamesischen Titel “Vô Thường” gehört. 
+Der Titel kann ins Deutsch mit “Vergänglichkeit“ übersetzt werden. Das Buch besteht aus Essays, in denen er von seinen 
+emotionalen Begegnungen mit schwerkranken Patienten, ihren Sorgen, ihren Wünschen sowie ihrer Reue berichtet. Die 
+Geschichten im Buch sind traurig, aber auch hoffnungsvoll. Manche Patienten haben erst in ihrer letzten Lebensphase 
+in der unausweichlichen Konfrontation mit dem Tod, neue Kenntnisse und Einstellungen gewonnen. Man sieht das Leben 
+ganz anders als vorher.
+Wesentliche Aspekte des Lebens, wie die Familie, das Loslassen, die Eigenverantwortung treten in den Vordergrund, 
+die im normalen Alltag zu kurz kommen.
 
-Jeder kundenorientierte Job ist besonders hinsichtlich der Begegnungen mit seinen Kunden. Die Patienten eines Arztes kommen mehr oder weniger aus allen Gesellschaftsschichten und Lebensphasen. Jeder kann irgendwann krank werden, obwohl mit unterschiedlichen Wahrscheinlichkeiten. Sie gehen zum Arzt (oder werden in ein Krankenhaus eingeliefert), meistens unerwartet und unerwünscht, meistens mit irgendeinem Schmerz oder sogar mehreren, und bitten um Behandlung und wünschen sich Linderung ihrer Leiden. Trotz der diversen Herkünfte und Lebenslagen sind wir in dieser Hinsicht gleich. Manchmal sehen wir nicht so, dass Prominente (Filmstars, Musiker oder Milliardäre) auch Menschen sind, die auch menschliche Leiden haben und manchmal hilflos sind.
+Jeder kundenorientierte Beruf ist etwas Besonderes, was die Begegnung mit den Kunden angeht. Die Patienten eines 
+Arztes kommen mehr oder weniger aus allen sozialen Schichten und Lebensphasen. Jeder kann einmal krank werden, 
+auch wenn mit unterschiedlichen Wahrscheinlichkeiten. Sie suchen den Arzt auf (oder werden ins Krankenhaus 
+eingeliefert), meist unerwartet und unerwünscht, meist mit einem oder mehreren Leiden, und bitten 
+um Behandlung und wünschen sich Linderung ihrer Beschwerden. Trotz unserer diversen Herkünfte und Lebenslagen sind 
+wir in dieser Hinsicht alle gleich. Manchmal sehen wir nicht so, dass Prominente (Filmstars, Musiker oder Milliardäre) 
+auch Menschen sind, die ebenfalls menschliche Leiden haben und manchmal hilflos sind.
 
 ## Tiếng Việt
 Hôm nay tôi được nghe một cuốn sách hay, viết bởi một bác sỹ với tiêu đề "Vô Thường". Tạm dịch qua tiếng Đức là "Vergänglichkeit". Cuốn sách là tập hợp những bài viết kể về những lần gặp gỡ cảm động với bệnh nhân của anh, với nỗi niềm lo lắng và ước mơ của người bệnh. Những câu chuyện trong sách phần lớn đều buồn, nhưng mà tràn đầy hi vọng và an ủi. Một vài bệnh nhân chỉ khi ở chặng cuối của cuộc đời, khi phải đối mặt với cái chết không tránh khỏi, mới nhận ra được những nhìn nhận mới. Khi đó người ta nhìn cuộc đời hoàn toàn khác với trước đây. Những gì quan trọng nhất trong cuộc đời lúc này mới xuất hiện ra: tình cảm gia đình, sự buông bỏ, trách nhiệm bản thân, ... những điều mà trong đời sống hằng ngày có phần nào bị lãng quên. 
