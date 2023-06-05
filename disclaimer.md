@@ -14,4 +14,5 @@ Under no circumstances will I be liable for any loss or damage (including withou
 ## Copyright
 Some articles in this website are summaries of existing expositions belonged to other authors. In those articles, the citations are duly provided.
 
-Other articles written by me are of my copyright. If you consider using in full or in part of those articles, you must contact me at the email address dinhhungtu[at]gmail.com for explicit permission in writing.
+Other articles written by me are of my copyright. If you consider using in full or in part of those articles, you 
+must contact me at the email address tiengducdn[at]gmail.com for explicit permission in writing.
