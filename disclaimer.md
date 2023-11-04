@@ -16,3 +16,11 @@ Some articles in this website are summaries of existing expositions belonged to 
 
 Other articles written by me are of my copyright. If you consider using in full or in part of those articles, you 
 must contact me at the email address tiengducdn[at]gmail.com for explicit permission in writing.
+
+## Kontaktdaten - Contact info
+
+Frau Thi Thanh Binh Do
+
+Berlin 13059
+
+Email: tiengducdn[at]gmail.com
